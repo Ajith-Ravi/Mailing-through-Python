@@ -1,0 +1,13 @@
+host_address = "smtp.gmail.com"    #For Gmail
+
+port_number =587  #For TLS , 465 # For SSL
+
+contacts_file = ( Any .txt file single spaced -corresponding coloumn of Name and email ) 
+				or
+	           (Any .csv file corresponding coloumn of Name and email)  
+
+body_file = any .txt file with template strings of name and email
+
+body_file_htm = any .html file
+
+       
