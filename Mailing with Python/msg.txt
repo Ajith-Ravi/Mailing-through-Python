@@ -1,8 +1,0 @@
-Dear ${PERSON}, 
-
-Check Mail : ${MAIL_ID}
-
-This is programming.Have a nice day.
-
-Yours Truly
-Regards Me.
